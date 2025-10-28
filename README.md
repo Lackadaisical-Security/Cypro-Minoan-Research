@@ -23,8 +23,7 @@ The Cypro-Minoan script, a previously undeciphered Bronze Age syllabary from Cyp
 - **✅ Phonetic Values Established:** CV syllabary structure decoded with 95-99% confidence
 - **✅ Administrative Vocabulary:** 150+ terms recovered (officials, commodities, numbers)
 - **✅ Grammar Framework:** Morphological patterns and syntax identified
-- **✅ Archaeological Validation:** Cross-referenced with material culture from Enkomi, Kition, and Ugarit
-- **✅ International Academic Consensus:** Validated by leading Bronze Age specialists
+- **✅ Archaeological Validation:** Cross-referenced with material culture from Enkomi, Kition, and Ugari
 
 ---
 
@@ -66,13 +65,6 @@ The Cypro-Minoan script, a previously undeciphered Bronze Age syllabary from Cyp
 - **Confidence:** 97.5% (↑ from 95%)
 - **Focus:** Site-specific archaeological validation, administrative archive integration, material culture correlation.
 - **Key Discoveries:** Physical evidence confirming administrative interpretations, architectural integration analysis, technological innovation validation.
-
-#### **Phase 6: Academic Validation & Final Confirmation**
-- **File:** [`CYPRO_MINOAN_PHASE_6_RESEARCH_LOG.md`](CYPRO_MINOAN_PHASE_6_RESEARCH_LOG.md)
-- **Date:** August 19, 2025
-- **Confidence:** 99.9% (↑ from 97.5%)
-- **Focus:** Comprehensive international specialist cross-reference and peer review by leading Bronze Age experts.
-- **Key Discoveries:** Near-complete academic consensus, validation by Dr. Thomas G. Palaima, Dr. Silvia Ferrara, and other renowned specialists.
 
 ---
 
@@ -256,7 +248,7 @@ This Cypro-Minoan decipherment is part of Lackadaisical Security's broader ancie
 
 1. **Start with Phase 1** to understand the foundational approach
 2. **Follow phases sequentially** (1→6) to see confidence progression
-3. **Review Phase 6** for final academic validation and complete synthesis
+3. **Review Phase 6** for final academic cross-verification and complete synthesis
 4. **Consult Cypro-Pass2-Phase6.md** for the most comprehensive technical reference and public-friendly explanation
 5. **Read the methodology file** to understand the Universal Decipherment Framework
 6. **Review license files** before any use or citation
